@@ -1,4 +1,4 @@
-<h2 align="center">A junior web application builder</h2>
+<h1 align="center">A junior web application builder</h1>
 
 ### Build with
 
