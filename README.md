@@ -2,6 +2,8 @@
 
 ## Currently working on (repo link) [travel agancy](https://github.com/osama2kabdullah/travel-guru-client)
 
+## Currently learning [Ruby](https://ruby-doc.org/) programming language
+
 <br>
 
 
