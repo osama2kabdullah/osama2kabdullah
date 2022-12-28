@@ -7,4 +7,4 @@
 <br>
 
 
-## [linkedin](https://www.linkedin.com/in/osama-abdullah-9121b5228/)
+## [linkedin](https://www.linkedin.com/in/md-abdullah-9121b5228/)
