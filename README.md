@@ -1,6 +1,6 @@
-<h1 align="center">A junior client side web application developer</h1>
+<h3 align="center">Junior Front-End Developer with expertise in complex user interfaces and responsive design</h3>
 
-Currently working on __*[Database design and automatic APIs create tool](https://loversid-client-side.vercel.app/)*__ web app
+Currently working on __*[Database design and automatic APIs create tool]()*__ web app
 
 Currently learning front-end technologies
 
