@@ -5,10 +5,8 @@ Currently working on __*[Database design and automatic APIs create tool](https:/
 Currently learning front-end technologies
 
 ## __[About me]()__
-I develop web applications client-side. Build user Interfaces prefer on UI/UX designer and integrate with server side developers.
+I'm a web developer from Bangladesh, with expertise in building user interfaces. I started learning web development in July 2022 and often collaborate with UI/UX designers to create visually appealing web applications. My focus is on developing client-side web applications and integrating them with server-side components.
 
 `JavaScript` `HTML` `CSS` `TypeScript`
 
 > *Ready to learn new technologies when I need them.*
-
-#### [linkedin](https://www.linkedin.com/in/md-abdullah-9121b5228/)
