@@ -1,4 +1,4 @@
-<h3 align="center">Shopify Theme Developer and React.js Developer</h3>
+<h1 align="center">React.js and Shopify Theme Developer</h1>
 
 <!-- Currently working on __*[Database design and automatic APIs create tool]()*__ web app -->
 
