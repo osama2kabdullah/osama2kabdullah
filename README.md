@@ -1,6 +1,8 @@
-<h1 align="center">I can develop shopify template from scratch</h1>
+<h1 align="center">Freelance Software Developer</h1>
 
 ## __About me__
-I am a web developer. My expertise is in Front-end web development. I have been working on shopify theme development as a freelancer since July 23. I have experience in making a shopify theme from scratch. I have experience in designing a project workflow, designing development architecture, time efficiency in development, project distribution on developers, managing multiple projects at a time, and so on.
+Primarily focus on building user facing interfaces for e-commerce websites. Worked over 50+ Shopify stores, where I design and develop e-commerce focused feature with custom coding in Shopify theme. And I did some work where I automate repetitive work for the store owners though making backend services.
 
-`JavaScript` `HTML` `CSS` `TypeScript` `liquid`, `Shopify Theme`
+Work directly with non-technical clients to translate business requirements into practical technical solutions. Often coordinate additional developers to meet the deadline and deliver efficient work.
+
+`JavaScript` `Python`, `Django` `HTML` `CSS` `SQL` `liquid`, `Shopify Theme` `Shopify App`
